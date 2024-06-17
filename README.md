@@ -33,3 +33,10 @@ By the end of this project, we will:
 
 I would like to extend my heartfelt gratitude to Dr. Nir Shlezinger for their guidance and support throughout this project. Their invaluable insights and encouragement have been instrumental in shaping this work.
 Thank you for taking the time to explore this project. I hope you find it informative and engaging.
+
+
+---
+
+Thank you for taking the time to explore this project. I hope you find it informative and engaging.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lThcCpe_u6g_ciRVEXB5Q2ITP-zW0TOK?usp=sharing)
